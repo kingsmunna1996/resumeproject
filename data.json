@@ -1,0 +1,35 @@
+{
+  "basics":{
+    "photo":"profile1.jpg",
+    "name":"mohammed",
+    "email":"mohammed.shohel9@gmail.com",
+    "mobile":"7893197470",
+    "address":"chittoor"
+  },
+  "career":{
+    "info":" I aspire for a challenging position in a professional Organization where I can enhance myprofessional skills and strengthen my performance in adding with Organization’s motto.Myself a self motivated achiever with an ability to plan and execute."
+  },
+"education":[
+{
+  "course":"MCA",
+  "college":"svpcet,puttur",
+  "percentage":["2017-2020","70.9%"]
+},
+{
+  "course":"B.SC",
+  "college":"VIJAYAM,chittoor",
+  "percentage":["2013-2016","63.9%"]
+},
+{
+  "course":"inter",
+  "college":"Govt.junior college",
+  "percentage":["2011-2013","63.9%"]
+},
+{
+  "course":"S.S.C",
+  "college":"Z.P.HIGH SCHOOL",
+  "percentage":["2010","71.9%"]
+}
+]
+
+}
